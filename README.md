@@ -1,7 +1,7 @@
 ### Hello ~ 🤗
 
 - 💌 I’m currently working on Circles, a productivity web application that allows users to create groups, or circles, with their friends and hold each other accountable for keeping up with good habits
-- 🐥 I'm currenty learning frontend development, backend development, & user interface design
+- 🐥 I'm currenty learning frontend development & user interface design, aspiring to one day work as a design-driven frontend developer
 - 🌸 How to reach me: christineluo@berkeley.edu
 - ✨ Fun fact: I love the color pink 💖
 
